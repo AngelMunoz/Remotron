@@ -1,3 +1,6 @@
+[fable.remoting.ts]: https://github.com/AngelMunoz/Fable.Remoting.Ts
+[Fable.Remoting]: https://zaid-ajaj.github.io/Fable.Remoting/
+
 # Fable.Remoting.Ts Sample
 
 Sample using [fable.remoting.ts] and [Fable.Remoting]
